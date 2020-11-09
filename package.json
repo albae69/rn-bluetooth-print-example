@@ -10,10 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@cloudgakkai/react-native-bluetooth-escpos-printer": "^0.0.6",
     "dateformat": "^3.0.3",
     "react": "16.13.1",
-    "react-native": "0.63.3",
-    "react-native-bluetooth-escpos-printer": "^0.0.5"
+    "react-native": "0.63.3"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",

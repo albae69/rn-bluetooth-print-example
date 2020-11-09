@@ -3,7 +3,7 @@ import {View, Text, DeviceEventEmitter} from 'react-native';
 import {
   BluetoothManager,
   BluetoothEscposPrinter,
-} from 'react-native-bluetooth-escpos-printer';
+} from '@cloudgakkai/react-native-bluetooth-escpos-printer';
 
 const App = () => {
   const [bluetooth, setBluetooth] = useState(false);
